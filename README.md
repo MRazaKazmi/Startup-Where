@@ -1,6 +1,6 @@
 # Startup Where 
 
-# Demo
+## Demo
 
 The dash app's user interface is shown below.
 
