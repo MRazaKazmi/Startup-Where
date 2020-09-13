@@ -2,7 +2,7 @@
 
 ## Demo
 
-The dash app's user interface is shown below.
+The dash app's user interface is shown below:
 
 ![alt text](https://github.com/MRazaKazmi/Startup-Where/blob/master/startup-where-ui.png)
 ## Introduction
@@ -15,7 +15,7 @@ There are two main metrics for businesses in each neighborhood. Yelp Average Rat
 
 ## Architecture
 
-The architecture of the data pipelines is shown below.
+The architecture of the data pipelines is shown below:
 
 ![alt text](https://github.com/MRazaKazmi/Startup-Where/blob/master/pipeline-architecture.png)
 
