@@ -11,7 +11,7 @@ Startup Where is an end to end data product comprising of one batch data pipelin
 
 ## Explanation of Startup Where View Metrics
 
-There are two main metrics for businesses in each neighborhood. Yelp Average Ratings is the average rating which reviewers attribute to businesses in each neighborhood and Yelp Sum Reviews is the total review count of businesses in each neighborhood. There is one metric for the Meetups in each neighborhood and is the sum of responses to meetups in that neighborhood. For incubators and accelerators, the count of these organizations in each neighbourhood is profiled. A combined view metric is calculated by multiplying the three metrics, binning the Yelp Sum Reviews metric and capping the Meetup Responses metric (please see discussion in Engineering Challenges for more detail).
+There are two metrics for local businesses in each neighborhood. Yelp Average Ratings is the average rating which reviewers attribute to businesses in each neighborhood and Yelp Sum Reviews is the total review count of businesses in each neighborhood. There is one metric for the Meetups in each neighborhood and is the sum of responses to meetups in that neighborhood. For incubators and accelerators, the count of these organizations in each neighbourhood is profiled. A combined view metric is calculated by multiplying the three metrics, binning the Yelp Sum Reviews metric and capping the Meetup Responses metric (please see discussion in Engineering Challenges for more detail).
 
 ## Architecture
 
