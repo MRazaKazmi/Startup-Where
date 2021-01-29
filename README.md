@@ -55,5 +55,5 @@ This application can be improved by adding more metrics of factors which are imp
 
 ## Engineering Challenges
 
-When calculating the Meetup responses in each neighborhood, some neighborhoods show a dramatically high number of responses as discussed previously. To reduce this effect, the number of meetup responses for each neighborhood is capped at 50. Another challenge was encountered when calculating the combined metric representing data from all three sources. Since the sum of Yelp reviews is a large number, with a maximum value of 5000, it is divided into 6 equal width bins and a value of 1 assigned to the smallest bin and a value of 6 to the largest bin. This way the combined metric is kept from reaching extremely large values. 
+When calculating the Meetup responses for each neighborhood, some neighborhoods show a dramatically high number of responses as discussed previously. To reduce this effect, the number of meetup responses for each neighborhood is capped at 50. Another challenge was encountered when calculating the combined metric representing data from all three sources. Since the sum of Yelp reviews is a large number, with a maximum value of 5000, it is divided into 6 equal width bins and a value of 1 assigned to the smallest bin and a value of 6 to the largest bin. This way the combined metric is kept from reaching extremely large values. 
 
